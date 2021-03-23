@@ -1,0 +1,13 @@
+body{
+    background-color: #E8F7F7;
+    text-align: center;
+}
+#titulo {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contenido {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+
+}
