@@ -21,5 +21,12 @@ body{
     height: 25%;
     background: #1abc9c;
     color: white;
-    font-size: 30px;
+    font-size: 1.2em;
+    padding: 0em;
+    
   }
+.foto_perfil{
+  position: fixed;
+  left: 32%;
+  top: 5%;
+}
