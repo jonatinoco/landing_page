@@ -3,13 +3,7 @@ body{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#titulo {
-    font-size: 50px;
-}
-.contenido {
-    font-size: 25px;
 
-}
 .footer {
     position: fixed;
     left: 0;
@@ -18,4 +12,14 @@ body{
     background-color: rgb(142, 126, 158);
     color: white;
     font-size: 25px;
+  }
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 25%;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
   }
