@@ -27,6 +27,14 @@ body{
   }
 .foto_perfil{
   position: fixed;
-  left: 28%;
+  left: 22%;
   top: 5%;
+}
+.content {
+  position:fixed;
+  left: 28em;
+  top: 10em;
+  color: rgb(87, 80, 80);
+  font-size: 1.2em;
+  padding: 0em;
 }
